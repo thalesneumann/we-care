@@ -113,7 +113,7 @@ p {
 
 }
 
-@media screen and (max-width:840px) {
+@media screen and (max-width:370px) {
     header {
         display: none;
     }
